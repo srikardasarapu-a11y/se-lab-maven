@@ -1,4 +1,4 @@
-package com.mavenjavasreenilay.javabysreenilay;
+package com.mavenjavasrikar.javabysrikar;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
